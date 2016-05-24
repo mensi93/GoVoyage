@@ -1,4 +1,4 @@
-url=jdbc:mysql://localhost:3306/
+url=jdbc:mysql://localhost:3306/GoVoayge
 login=root
 password=
 
